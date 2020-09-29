@@ -2,13 +2,18 @@
 Tarea 2, taller de redes y servicios.
 
 # Como usar.
-1.- usar comando: docker build .
 
-2.- ir a dirección donde se guarda el programa: cd ~/go/src/github.com/abh/geodns
+1.- git clone https://github.com/Andrustm/dns-docker
 
-3.- iniciar el servidor: ./geodns -log -interface 127.1 -port 5053
+2.- cd dns-docker
 
-4.- para iniciar tráfico como cliente abrir otra terminal y usar los siguientes comandos:
+3.- usar comando: docker build .
+
+4.- ir a dirección donde se guarda el programa: cd ~/go/src/github.com/abh/geodns
+
+5.- iniciar el servidor: ./geodns -log -interface 127.1 -port 5053
+
+6.- para iniciar tráfico como cliente abrir otra terminal y usar los siguientes comandos:
 
 dig -t a test.example.com @127.1 -p 5053
 
