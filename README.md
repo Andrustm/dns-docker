@@ -11,5 +11,7 @@ Tarea 2, taller de redes y servicios.
 4.- para iniciar tráfico como cliente abrir otra terminal y usar los siguientes comandos:
 
 dig -t a test.example.com @127.1 -p 5053
+
 dig -t ptr 2.1.168.192.IN-ADDR.ARPA. @127.1 -p 5053
+
 dig -x 192.168.1.2 @127.1 -p 5053
