@@ -1,7 +1,7 @@
 # dns-docker
 Tarea 2, taller de redes y servicios.
 
-# Como iniciar.
+# Como usar.
 1.- usar comando: docker build .
 
 2.- ir a dirección donde se guarda el programa: cd ~/go/src/github.com/abh/geodns
