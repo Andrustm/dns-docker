@@ -5,7 +5,7 @@ Tarea 2, taller de redes y servicios.
 
 1.- git clone https://github.com/Andrustm/dns-docker
 
-2.- cd dns-docker
+```cd dns-docker '''
 
 3.- usar comando: docker build .
 
