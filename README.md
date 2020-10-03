@@ -1,5 +1,5 @@
 # dns-docker
-Tarea 2, taller de redes y servicios.
+Este software crea comunicación DNS ejerciendo ambos roles, tanto servidor como cliente.
 
 # Como usar.
 
