@@ -1,5 +1,5 @@
 # dns-docker
-Este software crea comunicación DNS ejerciendo ambos roles, tanto servidor como cliente.
+Estos software crean comunicación DNS.
 
 # Como usar.
 
