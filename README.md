@@ -15,13 +15,4 @@ cd dns-docker
 ```
 usar comando: docker build .
 ```
-
-4.- ir a dirección donde se guarda el programa: 
-```
-cd ~/go/src/github.com/abh/geodns
-```
-5.- iniciar el servidor: 
-```
-./geodns -log -interface 127.1 -port 5053
-```
-6.- Video youtube: https://www.youtube.com/watch?v=icFAYGDM_xI&ab_channel=AndresDaille
+4.- Video youtube: https://www.youtube.com/watch?v=icFAYGDM_xI&ab_channel=AndresDaille
