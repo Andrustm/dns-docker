@@ -18,3 +18,5 @@ usar comando: docker build .
 4.- Video youtube 1ra actividad: https://www.youtube.com/watch?v=icFAYGDM_xI&ab_channel=AndresDaille
 
 5.- Video youtube 2da actividad: https://youtu.be/nNBhnrd3Y6M
+
+6.- Video youtube 4ta actividad: https://youtu.be/roNj-pwu83I
