@@ -15,10 +15,3 @@ cd dns-docker
 ```
 usar comando: docker build .
 ```
-4.- Video youtube 1ra actividad: https://www.youtube.com/watch?v=icFAYGDM_xI&ab_channel=AndresDaille
-
-5.- Video youtube 2da actividad: https://youtu.be/nNBhnrd3Y6M
-
-6.- Video youtube 4ta actividad: https://youtu.be/roNj-pwu83I
-
-7.- Video youtube 5ta actividad: https://youtu.be/hmuDn_miF2c
